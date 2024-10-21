@@ -1,6 +1,6 @@
 module listing_6.1
 
-go 1.17
+go 1.23.0
 
 require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
